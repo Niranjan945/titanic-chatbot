@@ -18,5 +18,5 @@ Powered by **LangChain**, **Groq (Llama 3)**, **FastAPI**, and **Streamlit**.
 
 **1. Clone the repository and navigate to the project folder:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/titanic-chatbot.git](https://github.com/YOUR_USERNAME/titanic-chatbot.git)
+git clone [https://github.com/Niranjan945/titanic-chatbot.git](https://github.com/Niranjan945/titanic-chatbot.git)
 cd titanic-chatbot
