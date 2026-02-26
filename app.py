@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-API_URL = "http://localhost:8000"
+API_URL = "https://titanic-chatbot-hi26.onrender.com"
 
 st.title("🚢 Titanic Data Chatbot")
 st.write("Ask questions about the Titanic dataset in natural language and get text + visual insights.")
